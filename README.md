@@ -1,13 +1,13 @@
-# 🌍 Automated Global Countries Data Intelligence Pipeline
+Automated Global Countries Data Intelligence Pipeline
 
 An advanced, high-performance ETL pipeline designed to automate the extraction of global country metrics, featuring a hybrid processing architecture with **DuckDB** and **Pandas**, orchestrated by **Apache Airflow**.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 This project follows a professional data engineering workflow, as shown in the diagram below:
 
-![Project Architecture](architecture_image.png) 
+![Project Architecture](https://github.com/YoussefHamedddd/Automated-Global-Countries-Intelligence-ETL-Pipeline/blob/main/docs%20of%20project/Project%20Design.jpeg?raw=true) 
 *(Note: Replace 'architecture_image.png' with your actual image file name)*
 
 ### 🛠️ The Tech Stack
@@ -34,7 +34,7 @@ The pipeline is fully automated and monitored via the Airflow Web UI. Below is t
 
 ---
 
-## 🔍 Data Insights (SQL Query)
+## Data Insights (SQL Query)
 Once the data is loaded into PostgreSQL, we can run complex analytical queries to derive business value. 
 
 **Query: Analyzing Population Density by Region**
