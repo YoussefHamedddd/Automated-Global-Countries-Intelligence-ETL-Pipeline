@@ -8,7 +8,7 @@ An advanced, high-performance ETL pipeline designed to automate the extraction o
 This project follows a professional data engineering workflow, as shown in the diagram below:
 
 ![Project Architecture](https://github.com/YoussefHamedddd/Automated-Global-Countries-Intelligence-ETL-Pipeline/blob/main/docs%20of%20project/Project%20Design.jpeg?raw=true) 
-*(Note: Replace 'architecture_image.png' with your actual image file name)*
+
 
 ### 🛠️ The Tech Stack
 * **Orchestration**: Apache Airflow (Workflow management).
