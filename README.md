@@ -23,7 +23,7 @@ This project follows a professional data engineering workflow, as shown in the d
 ## 🚀 Pipeline Workflow (DAG Runs)
 The pipeline is fully automated and monitored via the Airflow Web UI. Below is the successful execution of the DAG:
 
-![Airflow DAG Runs](dag_runs_image.png)
+![Airflow DAG Runs](https://github.com/YoussefHamedddd/Automated-Global-Countries-Intelligence-ETL-Pipeline/blob/main/docs%20of%20project/Airflow%20DAGS.jpeg?raw=true)
 *(Note: Replace 'dag_runs_image.png' with your screenshot showing the green tasks)*
 
 ### Task Breakdown:
